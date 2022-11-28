@@ -6,6 +6,6 @@ automatically card generation using javascript.
 	
 </head>
 <body>
-	<input type="button" name="click">Patil</input>
+	<h2 color="red"> Patil </h2>
 </body>
 </html>
